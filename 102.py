@@ -6,5 +6,6 @@ def rec(n):
         print(d)
     else:
         print(n)
+#print result        
 rec(n)        
         
